@@ -23,7 +23,7 @@ A complete photo gallery web application built from scratch with **PHP Native**,
 - **Backend:** PHP Native (no framework)
 - **Frontend:** Tailwind CSS, Font Awesome Icons
 - **Database:** MySQL
-- **Server:** XAMPP / Laragon
+- **Server:** XAMPP
 - **JavaScript:** Vanilla JS (AJAX for likes)
 
 ##  Database Structure
