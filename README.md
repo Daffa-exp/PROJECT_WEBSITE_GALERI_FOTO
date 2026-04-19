@@ -48,9 +48,3 @@ A complete photo gallery web application built from scratch with **PHP Native**,
 - XAMPP 
 - MySQL
 - Web browser
-
-### Steps
-
-1. Clone this repository to your htdocs folder
-```bash
-git clone https://github.com/yourusername/galeri-foto-native.git
