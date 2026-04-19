@@ -1,5 +1,5 @@
 # PROJECT_WEBSITE_GALERI_FOTO
-#Galeri Foto
+Galeri Foto
 
 A complete photo gallery web application built from scratch with **PHP Native**, **Tailwind CSS**, and **MySQL**. This project was developed as a school project (PKL) to demonstrate full-stack web development skills.
 
